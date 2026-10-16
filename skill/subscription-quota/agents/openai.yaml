@@ -1,0 +1,5 @@
+interface:
+  display_name: "Subscription Quota"
+  short_description: "Pace agent work using verified quota and reset windows"
+policy:
+  allow_implicit_invocation: true

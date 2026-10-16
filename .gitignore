@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+snapshot.json
+*-snapshot.json
+.env
+work/
